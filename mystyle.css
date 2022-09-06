@@ -1,0 +1,10 @@
+li a {
+    color: wheat;
+}
+body {
+    background: white url("Image/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
